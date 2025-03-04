@@ -39,6 +39,7 @@ npm install
    ```
 
 ##4.**Start the Backend**
+Give "npm init -y" to initialize the npm and then start it.
 ```sh
 npm start
 ```
