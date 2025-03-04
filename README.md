@@ -15,7 +15,24 @@ Users can enter a city name to get the **current temperature, weather conditions
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js, Axios, dotenv  
-- **API:** OpenWeather API  
+- **API:** OpenWeather API
+
+## Project structure:-
+This project is divided into two main parts:
+Frontend – The part you see & interact with (HTML, CSS, JavaScript).
+Backend – The part that fetches data from the OpenWeather API (Node.js, Express).
+
+Project Folder Structure
+weather-app/
+│── backend/                
+│   ├── server.js            
+│   ├── .env                 
+│   ├── package.json         
+│── frontend/                
+│   ├── index.html           
+│   ├── styles.css           
+│   ├── script.js            
+
 
 
 ## Installation & Setup:-
