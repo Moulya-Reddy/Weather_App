@@ -1,0 +1,8 @@
+# Sample Output(when you open the link)
+
+#{"coord":{"lon":78.4744,"lat":17.3753},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],
+#"base":"stations","main":{"temp":32.84,"feels_like":30.54,"temp_min":32.84,"temp_max":32.84,"pressure":1013,"humidity":15,
+#"sea_level":1013,"grnd_level":950},"visibility":10000,"wind":{"speed":3.56,"deg":65,"gust":4.86},"clouds":{"all":76},
+#"dt":1741067716,"sys":{"country":"IN","sunrise":1741050157,"sunset":1741092804},"timezone":19800,"id":1269843,"name":"Hyderabad","cod":200}
+
+
